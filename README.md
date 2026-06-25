@@ -2,7 +2,7 @@
 
 Cinematic scroll-driven landing page — **Cinder Meridian Atelier**. A bronze sculpture on a black stage, editorial typography, and motion tied to scroll.
 
-**Live:** [pipapaparapo2024.github.io/meridian](https://pipapaparapo2024.github.io/meridian/)
+**Live:** [pipapaparapo2024.github.io/meridian](https://pipapaparapo2024.github.io/meridian/) · Portfolio showcase
 
 ## Preview
 
