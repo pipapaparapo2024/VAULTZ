@@ -52,6 +52,7 @@ The site lives in `meridian/`, not the repo root. Publishing uses **GitHub Actio
 | Shader | Full-screen liquid wave background on camera plane |
 | UI | Fixed header, 4 editorial slides, 5-column grid, custom cursor |
 | Motion | Lerp-smoothed scroll; per-character blur-up titles |
+| Polish | Film grain overlay, nav active states, cursor hover ring, `prefers-reduced-motion`, focus-visible |
 
 ## License
 
