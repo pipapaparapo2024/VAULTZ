@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#111"/>
+  <!-- Sole -->
+  <rect x="2" y="24" width="28" height="5" rx="2" fill="#FF6B00"/>
+  <!-- Shoe body -->
+  <path d="M4 24 L4 17 Q4 12 9 11 L17 9 Q22 8 25 11 L30 17 L30 24 Z" fill="#ffffff"/>
+  <!-- Toe darker -->
+  <path d="M4 17 Q4 11 9 11 L13 10 L7 18 Z" fill="#cccccc"/>
+  <!-- Tongue -->
+  <path d="M15 9 L15 19 Q16 21 18 21 Q20 21 21 19 L21 10 Z" fill="#e0e0e0"/>
+  <!-- Orange accent -->
+  <path d="M25 11 Q28 14 30 19 L24 19 Q22 15 20 13 Z" fill="#FF6B00"/>
+</svg>
