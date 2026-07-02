@@ -1,0 +1,28 @@
+{
+	"config": {
+		"URWDIN-Thin": {
+			"name": "URWDIN-Thin",
+			"fontScale": 0.9825,
+			"fontName": "URWDIN-Thin",
+			"lineHeight": 1.69
+		},
+		"URWDIN-Demi": {
+			"name": "URWDIN-Demi",
+			"fontScale": 0.986,
+			"fontName": "URWDIN-Demi",
+			"lineHeight": 1.73
+		},
+		"URWDIN-Light": {
+			"name": "URWDIN-Light",
+			"fontScale": 0.985,
+			"fontName": "URWDIN-Light",
+			"lineHeight": 1.7
+		},
+		"adineuePRO-Regular": {
+			"name": "adineuePRO-Regular",
+			"fontScale": 1,
+			"fontName": "adineuePRO-Regular",
+			"lineHeight": 1.66
+		}
+	}
+}
