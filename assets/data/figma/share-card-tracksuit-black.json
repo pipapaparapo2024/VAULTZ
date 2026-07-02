@@ -1,0 +1,763 @@
+{
+	"name": "share-card-tracksuit-black",
+	"id": "6:0",
+	"x": -753,
+	"y": 880,
+	"width": 1480,
+	"height": 1480,
+	"visible": true,
+	"backgrounds": [
+		{
+			"type": "SOLID",
+			"visible": true,
+			"opacity": 1,
+			"blendMode": "NORMAL",
+			"color": {
+				"r": 1,
+				"g": 1,
+				"b": 1
+			}
+		}
+	],
+	"absoluteTransform": [
+		[
+			1,
+			0,
+			-753
+		],
+		[
+			0,
+			1,
+			880
+		]
+	],
+	"relativeTransform": [
+		[
+			1,
+			0,
+			-753
+		],
+		[
+			0,
+			1,
+			880
+		]
+	],
+	"nodes": [
+		{
+			"id": "6:1",
+			"name": "background-color",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "SOLID",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"color": {
+						"r": 0,
+						"g": 0,
+						"b": 0
+					}
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1.1231156587600708,
+			"strokeAlign": "INSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					1,
+					0,
+					0
+				],
+				[
+					0,
+					1,
+					0
+				]
+			],
+			"absoluteTransform": [
+				[
+					1,
+					0,
+					-753
+				],
+				[
+					0,
+					1,
+					880
+				]
+			],
+			"x": 0,
+			"y": 0,
+			"width": 1480,
+			"height": 1480,
+			"rotation": 0,
+			"layoutAlign": "MIN",
+			"constrainProportions": false,
+			"exportSettings": [],
+			"cornerRadius": 0,
+			"cornerSmoothing": 0,
+			"topLeftRadius": 0,
+			"topRightRadius": 0,
+			"bottomLeftRadius": 0,
+			"bottomRightRadius": 0,
+			"reactions": [],
+			"type": "RECTANGLE"
+		},
+		{
+			"id": "7:5",
+			"name": "name-thin",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "SOLID",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"color": {
+						"r": 0.42916667461395264,
+						"g": 0.42916667461395264,
+						"b": 0.42916667461395264
+					}
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "OUTSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-318.37445068359375
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					375.39532470703125
+				]
+			],
+			"absoluteTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-1071.37451171875
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					1255.395263671875
+				]
+			],
+			"x": -318.37445068359375,
+			"y": 375.39532470703125,
+			"width": 2093.74365234375,
+			"height": 255.763916015625,
+			"rotation": 0.10712912286818371,
+			"layoutAlign": "MIN",
+			"constrainProportions": false,
+			"exportSettings": [],
+			"textStyleId": "",
+			"characters": "NAME NAME NA",
+			"fontSize": 280,
+			"paragraphIndent": 0,
+			"paragraphSpacing": 2,
+			"textAlignHorizontal": "CENTER",
+			"textAlignVertical": "TOP",
+			"textCase": "ORIGINAL",
+			"textDecoration": "NONE",
+			"textAutoResize": "NONE",
+			"letterSpacing": {
+				"unit": "PERCENT",
+				"value": -2
+			},
+			"lineHeight": {
+				"unit": "PERCENT",
+				"value": 100
+			},
+			"fontName": {
+				"family": "URW DIN",
+				"style": "Thin"
+			},
+			"reactions": [],
+			"type": "TEXT"
+		},
+		{
+			"id": "7:6",
+			"name": "name-demi",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "SOLID",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"color": {
+						"r": 1,
+						"g": 0,
+						"b": 0
+					}
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "OUTSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-227.4695281982422
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					633.7570190429688
+				]
+			],
+			"absoluteTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-980.4695434570312
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					1513.757080078125
+				]
+			],
+			"x": -227.4695281982422,
+			"y": 633.7570190429688,
+			"width": 2061.2119140625,
+			"height": 255.763916015625,
+			"rotation": 0.10712912286818371,
+			"layoutAlign": "MIN",
+			"constrainProportions": false,
+			"exportSettings": [],
+			"textStyleId": "",
+			"characters": "NAEM NAME NA",
+			"fontSize": 280,
+			"paragraphIndent": 0,
+			"paragraphSpacing": 2,
+			"textAlignHorizontal": "CENTER",
+			"textAlignVertical": "TOP",
+			"textCase": "ORIGINAL",
+			"textDecoration": "NONE",
+			"textAutoResize": "NONE",
+			"letterSpacing": {
+				"unit": "PERCENT",
+				"value": -2
+			},
+			"lineHeight": {
+				"unit": "PERCENT",
+				"value": 100
+			},
+			"fontName": {
+				"family": "URW DIN",
+				"style": "Demi"
+			},
+			"reactions": [],
+			"type": "TEXT"
+		},
+		{
+			"id": "7:7",
+			"name": "name-light",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "SOLID",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"color": {
+						"r": 1,
+						"g": 1,
+						"b": 1
+					}
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "OUTSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-386.9117736816406
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					891.5933837890625
+				]
+			],
+			"absoluteTransform": [
+				[
+					0.9999982714653015,
+					0.018608927726745605,
+					-1139.9117431640625
+				],
+				[
+					-0.0018697548657655716,
+					0.9998267889022827,
+					1771.5933837890625
+				]
+			],
+			"x": -386.9117736816406,
+			"y": 891.5933837890625,
+			"width": 2290.482177734375,
+			"height": 255.763916015625,
+			"rotation": 0.10712912286818371,
+			"layoutAlign": "MIN",
+			"constrainProportions": false,
+			"exportSettings": [],
+			"textStyleId": "",
+			"characters": "NAME NAME NA",
+			"fontSize": 300,
+			"paragraphIndent": 0,
+			"paragraphSpacing": 2,
+			"textAlignHorizontal": "CENTER",
+			"textAlignVertical": "TOP",
+			"textCase": "ORIGINAL",
+			"textDecoration": "NONE",
+			"textAutoResize": "NONE",
+			"letterSpacing": {
+				"unit": "PERCENT",
+				"value": -2
+			},
+			"lineHeight": {
+				"unit": "PERCENT",
+				"value": 100
+			},
+			"fontName": {
+				"family": "URW DIN",
+				"style": "Light"
+			},
+			"reactions": [],
+			"type": "TEXT"
+		},
+		{
+			"id": "6:14",
+			"name": "tracksuit-black 1",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "IMAGE",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"scaleMode": "FILL",
+					"imageTransform": [
+						[
+							1,
+							0,
+							0
+						],
+						[
+							0,
+							1,
+							0
+						]
+					],
+					"scalingFactor": 0.5,
+					"filters": {
+						"exposure": 0,
+						"contrast": 0,
+						"saturation": 0,
+						"temperature": 0,
+						"tint": 0,
+						"highlights": 0,
+						"shadows": 0
+					},
+					"imageHash": "15da72074c4871d46e0b9e0d24f227cff236f740"
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "INSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					1,
+					0,
+					250
+				],
+				[
+					0,
+					1,
+					252
+				]
+			],
+			"absoluteTransform": [
+				[
+					1,
+					0,
+					-503
+				],
+				[
+					0,
+					1,
+					1132
+				]
+			],
+			"x": 250,
+			"y": 252,
+			"width": 980,
+			"height": 980,
+			"rotation": 0,
+			"layoutAlign": "MIN",
+			"constrainProportions": true,
+			"exportSettings": [],
+			"cornerRadius": 0,
+			"cornerSmoothing": 0,
+			"topLeftRadius": 0,
+			"topRightRadius": 0,
+			"bottomLeftRadius": 0,
+			"bottomRightRadius": 0,
+			"reactions": [],
+			"type": "RECTANGLE"
+		},
+		{
+			"id": "7:8",
+			"name": "post-FX",
+			"removed": false,
+			"visible": true,
+			"locked": true,
+			"opacity": 0.5,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "IMAGE",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"scaleMode": "FILL",
+					"imageTransform": [
+						[
+							1,
+							0,
+							0
+						],
+						[
+							0,
+							1,
+							0
+						]
+					],
+					"scalingFactor": 0.5,
+					"filters": {
+						"exposure": 0,
+						"contrast": 0,
+						"saturation": 0,
+						"temperature": 0,
+						"tint": 0,
+						"highlights": 0,
+						"shadows": 0
+					},
+					"imageHash": "b2eb844e7e20efac119c7d9d18432e9e7ad7bf31"
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "INSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					1,
+					0,
+					0
+				],
+				[
+					0,
+					1,
+					2
+				]
+			],
+			"absoluteTransform": [
+				[
+					1,
+					0,
+					-753
+				],
+				[
+					0,
+					1,
+					882
+				]
+			],
+			"x": 0,
+			"y": 2,
+			"width": 1480,
+			"height": 1480,
+			"rotation": 0,
+			"layoutAlign": "MIN",
+			"constrainProportions": true,
+			"exportSettings": [],
+			"cornerRadius": 0,
+			"cornerSmoothing": 0,
+			"topLeftRadius": 0,
+			"topRightRadius": 0,
+			"bottomLeftRadius": 0,
+			"bottomRightRadius": 0,
+			"reactions": [],
+			"type": "RECTANGLE"
+		},
+		{
+			"id": "10:22",
+			"name": "number",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "SOLID",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"color": {
+						"r": 0.9624999761581421,
+						"g": 0,
+						"b": 0
+					}
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "OUTSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					1,
+					0,
+					63
+				],
+				[
+					0,
+					1,
+					1335
+				]
+			],
+			"absoluteTransform": [
+				[
+					1,
+					0,
+					-690
+				],
+				[
+					0,
+					1,
+					2215
+				]
+			],
+			"x": 63,
+			"y": 1335,
+			"width": 203,
+			"height": 78,
+			"rotation": 0,
+			"layoutAlign": "MIN",
+			"constrainProportions": false,
+			"exportSettings": [],
+			"textStyleId": "",
+			"characters": "#144",
+			"fontSize": 80,
+			"paragraphIndent": 0,
+			"paragraphSpacing": 2,
+			"textAlignHorizontal": "LEFT",
+			"textAlignVertical": "CENTER",
+			"textCase": "ORIGINAL",
+			"textDecoration": "NONE",
+			"textAutoResize": "NONE",
+			"letterSpacing": {
+				"unit": "PERCENT",
+				"value": 1.25
+			},
+			"lineHeight": {
+				"unit": "PERCENT",
+				"value": 89.99999761581421
+			},
+			"fontName": {
+				"family": "adineue PRO",
+				"style": "Regular"
+			},
+			"reactions": [],
+			"type": "TEXT"
+		},
+		{
+			"id": "6:6",
+			"name": "adidas-logo",
+			"removed": false,
+			"visible": true,
+			"locked": false,
+			"opacity": 1,
+			"blendMode": "PASS_THROUGH",
+			"isMask": false,
+			"effects": [],
+			"effectStyleId": "",
+			"fills": [
+				{
+					"type": "IMAGE",
+					"visible": true,
+					"opacity": 1,
+					"blendMode": "NORMAL",
+					"scaleMode": "FILL",
+					"imageTransform": [
+						[
+							1,
+							0,
+							0
+						],
+						[
+							0,
+							1,
+							0
+						]
+					],
+					"scalingFactor": 0.5,
+					"filters": {
+						"exposure": 0,
+						"contrast": 0,
+						"saturation": 0,
+						"temperature": 0,
+						"tint": 0,
+						"highlights": 0,
+						"shadows": 0
+					},
+					"imageHash": "8cbbc9b2b9803cbeecd01d07b9102abd940dfb6c"
+				}
+			],
+			"fillStyleId": "",
+			"strokes": [],
+			"strokeStyleId": "",
+			"strokeWeight": 1,
+			"strokeAlign": "INSIDE",
+			"strokeCap": "NONE",
+			"strokeJoin": "MITER",
+			"strokeMiterLimit": 4,
+			"dashPattern": [],
+			"relativeTransform": [
+				[
+					1,
+					0,
+					563
+				],
+				[
+					0,
+					1,
+					122
+				]
+			],
+			"absoluteTransform": [
+				[
+					1,
+					0,
+					-190
+				],
+				[
+					0,
+					1,
+					1002
+				]
+			],
+			"x": 563,
+			"y": 122,
+			"width": 356,
+			"height": 126,
+			"rotation": 0,
+			"layoutAlign": "MIN",
+			"constrainProportions": true,
+			"exportSettings": [],
+			"cornerRadius": 0,
+			"cornerSmoothing": 0,
+			"topLeftRadius": 0,
+			"topRightRadius": 0,
+			"bottomLeftRadius": 0,
+			"bottomRightRadius": 0,
+			"reactions": [],
+			"type": "RECTANGLE"
+		}
+	],
+	"date": 1596119832407,
+	"exporterVersion": 2
+}

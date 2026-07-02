@@ -1,0 +1,935 @@
+{
+	"frames": {
+		"02-Click to interact_00000.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00001.png": {
+			"frame": {
+				"x": 163,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00002.png": {
+			"frame": {
+				"x": 325,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00003.png": {
+			"frame": {
+				"x": 487,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00004.png": {
+			"frame": {
+				"x": 649,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00005.png": {
+			"frame": {
+				"x": 811,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00006.png": {
+			"frame": {
+				"x": 1,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00007.png": {
+			"frame": {
+				"x": 163,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00008.png": {
+			"frame": {
+				"x": 325,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00009.png": {
+			"frame": {
+				"x": 487,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00010.png": {
+			"frame": {
+				"x": 649,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00011.png": {
+			"frame": {
+				"x": 811,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00012.png": {
+			"frame": {
+				"x": 1,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00013.png": {
+			"frame": {
+				"x": 163,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00014.png": {
+			"frame": {
+				"x": 325,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00015.png": {
+			"frame": {
+				"x": 487,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00016.png": {
+			"frame": {
+				"x": 649,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00017.png": {
+			"frame": {
+				"x": 811,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00018.png": {
+			"frame": {
+				"x": 1,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00019.png": {
+			"frame": {
+				"x": 163,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00020.png": {
+			"frame": {
+				"x": 325,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00021.png": {
+			"frame": {
+				"x": 487,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00022.png": {
+			"frame": {
+				"x": 649,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00023.png": {
+			"frame": {
+				"x": 811,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00024.png": {
+			"frame": {
+				"x": 1,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00025.png": {
+			"frame": {
+				"x": 163,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00026.png": {
+			"frame": {
+				"x": 325,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00027.png": {
+			"frame": {
+				"x": 487,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00028.png": {
+			"frame": {
+				"x": 649,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00029.png": {
+			"frame": {
+				"x": 811,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00030.png": {
+			"frame": {
+				"x": 1,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00031.png": {
+			"frame": {
+				"x": 163,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00032.png": {
+			"frame": {
+				"x": 325,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00033.png": {
+			"frame": {
+				"x": 487,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00034.png": {
+			"frame": {
+				"x": 649,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00035.png": {
+			"frame": {
+				"x": 811,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00036.png": {
+			"frame": {
+				"x": 973,
+				"y": 1,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00037.png": {
+			"frame": {
+				"x": 973,
+				"y": 163,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00038.png": {
+			"frame": {
+				"x": 973,
+				"y": 325,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00039.png": {
+			"frame": {
+				"x": 973,
+				"y": 487,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00040.png": {
+			"frame": {
+				"x": 973,
+				"y": 649,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00041.png": {
+			"frame": {
+				"x": 973,
+				"y": 811,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00042.png": {
+			"frame": {
+				"x": 1,
+				"y": 973,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00043.png": {
+			"frame": {
+				"x": 163,
+				"y": 973,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00044.png": {
+			"frame": {
+				"x": 325,
+				"y": 973,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		},
+		"02-Click to interact_00045.png": {
+			"frame": {
+				"x": 487,
+				"y": 973,
+				"w": 160,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 160
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1134,
+			"h": 1134
+		},
+		"scale": "1"
+	}
+}
