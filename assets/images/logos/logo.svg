@@ -1,21 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
-  <!-- Sneaker icon -->
-  <g transform="translate(0,8) scale(0.85)">
-    <!-- Sole -->
-    <rect x="2" y="42" width="52" height="8" rx="3" fill="#FF6B00"/>
-    <!-- Body upper -->
-    <path d="M6 42 L6 28 Q6 20 14 18 L30 16 Q40 14 44 18 L54 28 L54 42 Z" fill="#ffffff"/>
-    <!-- Toe cap -->
-    <path d="M6 28 Q6 20 14 18 L20 17 L10 30 Z" fill="#cccccc"/>
-    <!-- Tongue -->
-    <path d="M26 16 L26 32 Q28 36 32 36 Q36 36 38 32 L38 18 Z" fill="#e0e0e0"/>
-    <!-- Lace details -->
-    <line x1="26" y1="20" x2="38" y2="19" stroke="#fff" stroke-width="1.5" opacity="0.6"/>
-    <line x1="26" y1="24" x2="38" y2="23" stroke="#fff" stroke-width="1.5" opacity="0.6"/>
-    <line x1="26" y1="28" x2="38" y2="27" stroke="#fff" stroke-width="1.5" opacity="0.6"/>
-    <!-- Orange accent panel -->
-    <path d="M44 18 Q50 22 54 30 L44 30 Q42 24 40 21 Z" fill="#FF6B00"/>
-  </g>
-  <!-- VAULTZ text -->
-  <text x="65" y="42" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="32" letter-spacing="3" fill="#ffffff">VAULTZ</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40">
+  <text x="0" y="32" font-family="Arial Black,Helvetica,sans-serif" font-weight="900" font-size="34" letter-spacing="4" fill="#ffffff">VAULTZ</text>
 </svg>
